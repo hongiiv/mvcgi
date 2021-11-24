@@ -6,7 +6,7 @@
         "url" : "https://www.cancergenomeinterpreter.org"
     },
     "dumper" : {
-        "data_url" : "https://141.20.21.138/sevajuri/deepClassification/-/raw/c0cb111f375279c88506577e89026affb0072837/data/original/cgi_biomarkers.tsv",
+        "data_url" : "https://raw.githubusercontent.com/hongiiv/mvcgi/master/cgi_biomarkers.tsv",
         "uncompress" : true
     },
     "uploader" : {
